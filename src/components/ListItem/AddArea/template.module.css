@@ -1,0 +1,19 @@
+.addAreaContainer {
+    border: 1px solid #555;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 20px 0px;
+    display: flex;
+    align-items: center;
+}
+.image {
+    margin-right: 5px;
+}
+.addAreaContainer input {
+    border: 0px;
+    background: transparent;
+    outline: 0;
+    color: #FFF;
+    font-size: 18px;
+    flex: 1;
+}

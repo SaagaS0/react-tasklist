@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+.Container {
+    background-color: #17181F;
+    color: #797A81;
+    min-height: 100vh;
+}
+.Area {
+    margin: auto;
+    max-width: 980px;
+    padding: 10px;
+}
+header {
+    margin: 0;
+    padding: 0;
+    color: #FFF;
+    text-align: center;
+    padding-bottom: 10px;
+
+}
+header h1 {
+    border-bottom: 1px solid #444;
+    padding: 10px 0px;
+}
